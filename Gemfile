@@ -6,6 +6,8 @@ gem "faker"
 
 gem 'devise'
 
+gem 'sassc-rails'
+
 gem "activeadmin"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
